@@ -22,10 +22,10 @@ public class Person_Class_Object
 
     public static void Main(string[] args)
     {
-        Person friend = new Person();
+        Person_Class_Object  friend = new Person_Class_Object ();
         friend.Name = "John Doe";
         friend.Age = 30;
-        Person boss = new Person("Jane_Doe", 33);
+        Person_Class_Object  boss = new Person_Class_Object ("Jane_Doe", 33);
         friend.PrintAGreeting();
         boss.PrintAGreeting();
     }
