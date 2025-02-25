@@ -1,15 +1,15 @@
-public class Person 
+public class Person_Class_Object 
 {
     string Name { get; set; }
     int Age { get; set; }
 
-    public Person (string name_param, int age_param)
+    public Person_Class_Object (string name_param, int age_param)
     {
         string Name = name_param;
         int Age = age_param;
     }
 
-    public Person()
+    public Person_Class_Object()
     {
 
     }
