@@ -1,0 +1,5 @@
+This code is modified from the given Copilot task HW in the Coursera course itself.
+The modification prompt used is: "Modify the above code to include command input from upper-case, lower-case or any other types of case."
+
+Copilot comes up with the following results statement:
+This code now handles command input in any case by converting the input to lower case using ToLower() and trimming any extra spaces with Trim(). It also compares book titles in a case-insensitive manner using StringComparison.OrdinalIgnoreCase.

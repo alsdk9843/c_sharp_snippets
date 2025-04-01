@@ -1,0 +1,5 @@
+This code is modified from the given Copilot task HW in the Coursera course itself.
+The modification prompt used is: "Modify the above code to check for null or empty strings when displaying books."
+
+Copilot comes up with the following results statement:
+This code now checks for null or empty strings when displaying books, ensuring that only non-empty book titles are shown.

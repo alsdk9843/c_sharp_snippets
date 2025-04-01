@@ -1,0 +1,10 @@
+The Library Management System works well. You need to add the following features:
+Check-in a borrowed book
+Add a feature that enables the user to check in a book that’s been checked out.
+Check If the book is checked out. If it is remove the checked-out flag to check the book in. If it isn’t, inform the user.
+
+Prompt used to solve the above problem is as follows:
+'The above code still shows the book in the list of available books even after the book is checked-out / borrowed. 
+Please only show the list of available books in the library. The book that has been borrowed must not be shown in the list of available books.'
+
+

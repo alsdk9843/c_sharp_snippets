@@ -1,0 +1,11 @@
+The Library Management System works well. You need to add the following features:
+Check-in a borrowed book
+Add a feature that enables the user to check in a book that’s been checked out.
+Check If the book is checked out. If it is remove the checked-out flag to check the book in. If it isn’t, inform the user.
+
+Prompt used to solve the above problem is as follows:
+'Modify the above code to add the following feature:
+Add a feature that enables the user to check in a book that’s been checked out. Check If the book is checked out. 
+If it is checked-out remove the checked-out flag to check the book in. If it isn’t checked-out, inform the user.'
+
+

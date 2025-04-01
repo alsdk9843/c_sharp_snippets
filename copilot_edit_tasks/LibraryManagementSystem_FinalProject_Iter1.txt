@@ -1,0 +1,13 @@
+The Library Management System works well, but it can be extended to solve new problems. You need to add the following features:
+Search for a book by its title.
+Limit the number of books a user can borrow at once.
+With Microsoft Copilot, you will solve these new challenges and extend the functionality of the system.
+
+Prompt used to solve the above problem is as follows:
+
+Use the above code and add the following features to it:
+1) Search for a book by its title
+2) Limit the umber of books a user can borrow at once.
+
+(Here 'above code' refers to the code in the file 'LibraryManagementSystem_FinalProject_Iter1.cs'
+The CoPilot generated code will be pasted in the file 'LibraryManagementSystem_FinalProject_Iter2.cs')
